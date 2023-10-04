@@ -1,0 +1,2 @@
+echo "alias gitc=\"git commit -m '\$(curl -s https://whatthecommit.com/index.txt)'\"" >> ~/.bashrc
+echo "lol"
